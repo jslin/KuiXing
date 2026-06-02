@@ -220,7 +220,7 @@ tqdm >= 4.65.0
 
 ```bash
 # 1. 複製專案
-git clone https://github.com/your-username/kuixing.git
+git clone https://github.com/jslin/KuiXing.git
 cd kuixing
 
 # 2. 建立虛擬環境（建議）
