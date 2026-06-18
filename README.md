@@ -85,7 +85,7 @@ LM Head（d_model → vocab_size，**與 Token Embedding 共享權重**）
     ↓
 Logits（float32）
 ```
-![魁星架構圖](魁星架構圖.png)
+![魁星架構圖](./魁星架構圖.png)
 ### 關鍵設計決策
 
 **Pre-Norm（前置正規化）**
