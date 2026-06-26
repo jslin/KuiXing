@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/授權-CC BY--NC 4.0-lightgrey?style=flat-square" />
 </p>
 
-** 魁星（KuiXing）** 是一個從零開始、以繁體中文語料預訓練的 Decoder-Only 大型語言模型。取名自中國傳統文化中掌管文章與科舉的神祇「魁星」，象徵對中文語言理解能力的追求。本專案目前僅公開模型銓重供各界批評指教，原始訓練程式碼，可在 Apple Silicon（MLX）或 NVIDIA GPU（CUDA）上執行，並輸出與 HuggingFace `transformers` 相容的模型格式。但在 Apple Silicon（MLX）上因訓練效能因素，僅供作可行性驗證，如果真的要在 MLX 上預訓練，粗估一個 epoch 大概要180天，這部分要特別注意。
+**魁星（KuiXing）** 是一個從零開始、以繁體中文語料預訓練的 Decoder-Only 大型語言模型。取名自中國傳統文化中掌管文章與科舉的神祇「魁星」，象徵對中文語言理解能力的追求。本專案目前僅公開模型銓重供各界批評指教，原始訓練程式碼，可在 Apple Silicon（MLX）或 NVIDIA GPU（CUDA）上執行，並輸出與 HuggingFace `transformers` 相容的模型格式。但在 Apple Silicon（MLX）上因訓練效能因素，僅供作可行性驗證，如果真的要在 MLX 上預訓練，粗估一個 epoch 大概要180天，這部分要特別注意。
 
 ---
 
